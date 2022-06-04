@@ -16,7 +16,10 @@ This is a repository to dtisplay monthly reading books.
 
 - ## 2022
     - ### June 
-       - [ ] Beginning Git and GitHub
-       - [ ] How to Study in College
+       - [ ] [Beginning Git and GitHub](Programing/beginning-git-and-github.pdf)
+       - [ ] [How to Study in College](Interesting/How-to-Study-in-College.pdf)
 
     - ### July
+
+
+
