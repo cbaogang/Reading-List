@@ -18,6 +18,7 @@ This is a repository to dtisplay monthly reading books.
     - ### June 
        - [ ] [Beginning Git and GitHub](Programing/beginning-git-and-github.pdf)
        - [ ] [How to Study in College](Interesting/How-to-Study-in-College.pdf)
+       - [ ] [自控力](Interesting/自控力.pdf)
 
     - ### July
 
